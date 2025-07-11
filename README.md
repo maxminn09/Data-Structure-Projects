@@ -1,0 +1,1 @@
+These are my practicing and learning personal projects for data structures; instead of using the library, I tried to implement and make my own data structures. There are some mistakes and errors in the code.
